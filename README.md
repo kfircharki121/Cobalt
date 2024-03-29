@@ -1,5 +1,5 @@
 # Cobalt
-# Private server for latest does not work because of EOS
+# Private server for lastest does not work because of EOS
 SSL Bypass for Fortnite.<br>
 Hopefully when I have a lot of time I'll make a new SSL Bypass with a BUNCH of features.
 
