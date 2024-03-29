@@ -3,7 +3,7 @@
 SSL Bypass for Fortnite.<br>
 Hopefully when I have a lot of time I'll make a new SSL Bypass with a BUNCH of features.
 
-# Changing port or ip.
+# Changing port or ip.s
 
 Go to `settings.h` and change URL_HOST and URL_PORT to what you want.
 
